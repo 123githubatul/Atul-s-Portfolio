@@ -2,6 +2,7 @@
 Analytics projects portfolio
 # [Project 1: EDA on Covid_19_India and vaccination_State wise  Data_set Using Python](https://drive.google.com/file/d/19-Lutkyw9xfseqmCT04kzhlMy1Ss9_SQ/view?usp=sharing)
 This is a data exploration and visualization project which  was based on the effect of covid_19 in differnt States/Ut of India.
+* Source of the data set is  from www.kaggle.in in which it contains Covid_19_India data_set (https://drive.google.com/file/d/1gcqa2ZPuw-il0uiChAmDMlhaQIEox-Hl/view?usp=sharing) and Vaccination_State_wise data_set(https://drive.google.com/file/d/19vEudXon2XE0C5an2-y32HQjwVQfmfo_/view?usp=sharing)
 * The tools used for this project was "Python". 
 * The libraries which were used for this project was "Pandas" , "Numpy" , "Matplotlib" , "Seaborn" , "Plotly".
 * The visualization was done by using the above mentioned libraries.
