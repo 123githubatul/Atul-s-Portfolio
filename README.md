@@ -1,5 +1,5 @@
 # Atul-s-Portfolio
-Analytics projects portfolio
+
 # [Project 1: EDA on Covid_19_India and vaccination_State wise  Data_set Using Python](https://drive.google.com/file/d/19-Lutkyw9xfseqmCT04kzhlMy1Ss9_SQ/view?usp=sharing)
 This is a data exploration and visualization project which  was based on the effect of covid_19 in different States/Ut of India.
 * Source of the data set is  from www.kaggle.in in which it contains Covid_19_India data_set (https://drive.google.com/file/d/1eW64LbiZ6U6085KItkwJWxE4KvwLF1e2/view?usp=sharing) and Vaccination_State_wise data_set(https://drive.google.com/file/d/19vEudXon2XE0C5an2-y32HQjwVQfmfo_/view?usp=sharing)
@@ -10,6 +10,7 @@ This is a data exploration and visualization project which  was based on the eff
 *  Top and bottom States/Ut of India where vaccination given to male and female from data set(https://drive.google.com/file/d/19vEudXon2XE0C5an2-y32HQjwVQfmfo_/view?usp=sharing)  
 ## Overview of the Covid_19_India project 
 ![Top Active_cases States/Ut](https://github.com/123githubatul/Atul-s-Portfolio/blob/main/covid_19%20project%20using%20python12259.png)
+![](https://github.com/123githubatul/Atul-s-Portfolio/blob/main/covid_19%20project%20using%20python15382.png)
 
 
 # [Project 2: Data Exploration and Visualization  on Superstore Data_set Using SQL and Tableau](https://drive.google.com/file/d/1gcqa2ZPuw-il0uiChAmDMlhaQIEox-Hl/view?usp=sharing)
