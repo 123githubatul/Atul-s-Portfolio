@@ -9,7 +9,7 @@ This is a data exploration and visualization project which  was based on the eff
 * In this project I extracted various important informations like the Death_rate , Recovery_rate and Mortatilty_rate of Top and Bottom States/Ut of India using statistical methods from the data set (https://drive.google.com/file/d/1eW64LbiZ6U6085KItkwJWxE4KvwLF1e2/view?usp=sharing) 
 *  Top and bottom States/Ut of India where vaccination given to male and female from data set(https://drive.google.com/file/d/19vEudXon2XE0C5an2-y32HQjwVQfmfo_/view?usp=sharing)  
 ## Overview of the Covid_19_India project 
-![](
+![](https://github.com/123githubatul/Atul-s-Portfolio/blob/main/covid_19%20project%20using%20python12259.png)
 
 
 # [Project 2: Data Exploration and Visualization  on Superstore Data_set Using SQL and Tableau](https://drive.google.com/file/d/1gcqa2ZPuw-il0uiChAmDMlhaQIEox-Hl/view?usp=sharing)
