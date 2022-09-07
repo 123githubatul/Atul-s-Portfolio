@@ -21,6 +21,7 @@ In this project the maximum and average sales of various products and customer w
 * Visualization Tool : Tableau
 * Data set used : Superstore (https://drive.google.com/file/d/1okrk4Kmr9er_63G6ViC3bQoy6O0KVl9-/view?usp=sharing)
 ## Overview of the project 2
+![](https://github.com/123githubatul/Atul-s-Portfolio/blob/main/Screenshot%20(2).png)
 
 
 # [Project 3: Data Exploration and Visualization  on Human Trafficking_2019  Data_set Using SQL and Tableau](https://drive.google.com/file/d/1b2ytdkToFJAvve54rX09mlN9TCsXvmyW/view?usp=sharing)
