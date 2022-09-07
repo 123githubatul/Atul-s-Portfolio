@@ -14,6 +14,12 @@ This is a data exploration and visualization project which  was based on the eff
 
 
 # [Project 2: Data Exploration and Visualization  on Superstore Data_set Using SQL and Tableau](https://drive.google.com/file/d/1gcqa2ZPuw-il0uiChAmDMlhaQIEox-Hl/view?usp=sharing)
+In this project the maximum and average sales of various products and customer were categorised based upon the based upon the year , states/cities and segments later a dashboard was made.
+* Tools used: 
+      * Exploration Tool : SQL
+      * Visualization Tool : Tableau
+* Data set used : Superstore (https://drive.google.com/file/d/1okrk4Kmr9er_63G6ViC3bQoy6O0KVl9-/view?usp=sharing)
+## Overview of the project 2
 
 
 # [Project 3: Data Exploration and Visualization  on Human Trafficking_2019  Data_set Using SQL and Tableau](https://drive.google.com/file/d/1b2ytdkToFJAvve54rX09mlN9TCsXvmyW/view?usp=sharing)
