@@ -15,8 +15,7 @@
 
 # [Project 2: Data Exploration and Visualization  on Superstore Data_set Using SQL and Tableau](https://drive.google.com/file/d/1gcqa2ZPuw-il0uiChAmDMlhaQIEox-Hl/view?usp=sharing)
 
-## In this project the maximum and average sales of various products and customer were categorised based upon the based upon the year , states/cities and segments later a dashboard was made.
-* Tools used:  
+## In this project the maximum and average sales of various products and customer were categorised based upon the based upon the year , states/cities and segments , later a dashboard was made. 
 * Exploration Tool : SQL
 * Visualization Tool : Tableau
 * Data_set source : www.kaggle.in where in Superstore (https://drive.google.com/file/d/1okrk4Kmr9er_63G6ViC3bQoy6O0KVl9-/view?usp=sharing)
@@ -26,8 +25,9 @@
 
 
 # [Project 3: Data Exploration and Visualization  on Human Trafficking_2019  Data_set Using SQL and Tableau](https://drive.google.com/file/d/1b2ytdkToFJAvve54rX09mlN9TCsXvmyW/view?usp=sharing)
-## Various crime cases takes place in india every year where in human Trafficking is a very major crime which takes place in different States/Ut of India , so in this project I took the data_set of Human_trafficking of year 2019 of india and determined the Top States in which human Trafficking occured and on which States/ut the government has to react to tackle against Human Trafficking .
-* Tools used:  
+## Various crime cases takes place in india every year where in human Trafficking is a very major crime which takes place in different States/Ut of India , so in this project I took the data_set of Human_trafficking of year 2019 of india and determined the Top States in which human Trafficking occured and on which States/ut the government has to react to tackle against Human Trafficking . 
 * Exploration Tool : SQL
 * Visualization Tool : Tableau
-* Data_set source : www.kaggle.in where in Human_trafficking ()
+* Data_set source : www.kaggle.in where in Human_trafficking (https://drive.google.com/file/d/1E3uGg9cd1wLNjwNITeffIW9GaONSJF2B/view?usp=sharing), (https://drive.google.com/file/d/1mdAWZdfVI4OcuoTdU7t5MO8myjN4i0on/view?usp=sharing)
+## Overview of the project 3 
+![]()
