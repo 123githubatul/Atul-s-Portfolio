@@ -32,3 +32,18 @@
 ## Overview of the project 3 
 ![](https://github.com/123githubatul/Atul-s-Portfolio/blob/main/crime.png)
 ![](https://github.com/123githubatul/Atul-s-Portfolio/blob/main/crime%20dash%20board.bmp)
+
+
+# [Project 4 : Using Data Analytics Sloving Business Problem For a Company ]
+(https://docs.google.com/spreadsheets/d/1x7_q1V52hkCdsQax_lqw4NNW4gIyng-5/edit?usp=share_link&ouid=108192787579882014661&rtpof=true&sd=true)
+## Business Problem:The Organisation for Economic Co-operation and Development is creating a department under its name which will focus on how a country can attain sustainable growth.This organisation hires you as a data analyst for this department to determine which factors a country should focus on to sustain GDP/ Capita.
+* Tool used : MS Excel
+* Functions Applied : Various functions of ms excel is used in this project like collecting data from different sheets using vlookups , different statistical methods to get insights ( mean , mode , standard deviation , variance etc), creating pivot tables, plotting different graphs for visulalizaton etc
+* Conclusion: The conclusion is in the form of a PPT
+(https://docs.google.com/presentation/d/1SI1ftoP9T9Ijw3jfUHg1lIp5oXZVXVxp/edit?usp=share_link&ouid=108192787579882014661&rtpof=true&sd=true)
+* Raw data : 
+(https://docs.google.com/spreadsheets/d/1wb8GHTI2mOvnlCAgZqB4SM8EnhYt56TI/edit?usp=share_link&ouid=108192787579882014661&rtpof=true&sd=true)
+
+
+
+
