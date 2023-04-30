@@ -44,7 +44,7 @@
 (https://docs.google.com/spreadsheets/d/1wb8GHTI2mOvnlCAgZqB4SM8EnhYt56TI/edit?usp=share_link&ouid=108192787579882014661&rtpof=true&sd=true)
 
 
-# Project 5 : Sales Dashboard for E-commerce Business for Online and Offline Bussiness
+# **Project 5 : Sales Dashboard for E-commerce Business for Online and Offline Bussiness**
 ## [Online E-commerce Orders Sales Dashboard](https://lookerstudio.google.com/u/1/reporting/2da432f6-86d5-49ee-886f-721f2bd158ad/page/p_82g6z57w4c)
 * Developed a sales dashboard for a B2B and B2C e-commerce business, providing day-to-day and impulsive reports on the number of orders, total amount, and delivery status for two different financial years using Data Studio.
 * Extracted insights on top suppliers, their order value, and count to help optimize business operations and drive organizational success.
