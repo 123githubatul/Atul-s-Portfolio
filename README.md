@@ -50,4 +50,6 @@
 * Extracted insights on top suppliers, their order value, and count to help optimize business operations and drive organizational success.
 * Utilized a comprehensive dataset to provide valuable insights to the e-commerce business, helping them make informed decisions and improve their sales performance.
 ## [Offline E-commerce Orders Sales Dashboard](https://lookerstudio.google.com/u/1/reporting/969c1e5e-e05f-4fd8-90f1-5e853ee41833/page/zYIxC)
-
+* Provides an overview of the number of orders and total sales amount for both B2B and B2C businesses in the offline sales channel.
+* Allows users to view top suppliers and their order value and count, as well as track delivery status using data from 2 different financial years.
+* Offers day-to-day and real-time insights to help businesses optimize sales strategies and improve operational efficiency in the offline sales channel.
