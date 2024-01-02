@@ -55,7 +55,7 @@
 * Offers day-to-day and real-time insights to help businesses optimize sales strategies and improve operational efficiency in the offline sales channel.
 
 
-#🚀 Excited to unveil the insights from my latest CRM data analysis project! 📊💻
+#[🚀 Excited to unveil the insights from my latest CRM data analysis project! 📊💻]
 
 ### Project Overview:
 Embarked on a transformative journey of uncovering valuable insights from CRM data using Python and pandas. Let's dive into the compelling narrative of this analysis!
