@@ -103,7 +103,7 @@ These CRM data-driven insights serve as a compass for strategic decision-making.
 
 
 
-# [**Project 7:Supply Chain Dashboard Insights 🚚📈**](https://lookerstudio.google.com/u/0/reporting/68982d4a-7709-4ee3-a45a-85d14aa27d72/page/37ZmD)
+# [**Project 7:Supply Chain Dashboard Insights 🚚📈**](https://lookerstudio.google.com/reporting/68982d4a-7709-4ee3-a45a-85d14aa27d72)
 
 ## Revenue Insights
 - Total Revenue: ₹577,604.82
