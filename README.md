@@ -103,4 +103,37 @@ These CRM data-driven insights serve as a compass for strategic decision-making.
 
 
 
+# [**Supply Chain Dashboard Insights 🚚📈**](https://lookerstudio.google.com/u/0/reporting/68982d4a-7709-4ee3-a45a-85d14aa27d72/page/37ZmD)
+
+## Revenue Insights
+- Total Revenue: ₹577,604.82
+- Top-Performing SKU: SKU51 with ₹137,755.03
+- Product Mix: Skincare (40%), Haircare (26%), Cosmetics (34%)
+
+## Sales & Products
+- Products Available: 4,840
+- Number of Products Sold: 46,099
+- Stock Levels: 4,777 (Ensuring optimal availability)
+
+## Supplier Dynamics
+- Supplier Engagement: Supplier 1 (29.60%), Supplier 2 (12.80%), Supplier 5 (17.10%), Supplier 3 (19.7%), Supplier 4 (20.8%)
+- Timely Stocks: 85.1% availability
+- Defect Rates: Consistently below 5%
+
+## Logistics Mastery
+- Mode of Transportation: Road (41%), Rail (23%), Air (36%)
+- Preferred Routes: Route B (40%), Route A (30%), Route C (30%)
+- Shipping Times: Streamlined for efficiency
+
+## Sustainability Champions
+- Eco-Friendly Shipping: Emphasizing air and sea routes
+- All Modes Considered: Road, Rail, Air, Sea, with a focus on sustainability
+
+## Quality Control
+- Inspection Success: 77% pass rate
+- Defect Rate Over Time: Maintaining quality standards
+
+#🎉SupplyChainExcellence #LogisticsMastery #DataDrivenSuccess
+
+
 #CRMAnalysis #DataDrivenDecisions #Python #BusinessInsights #DataVisualization #Coding #LinkedInPost
