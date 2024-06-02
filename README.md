@@ -56,7 +56,7 @@
 
 
 
-# **Project 6 : 🚀 Excited to unveil the insights from my latest CRM data analysis project! 📊💻**
+# [**Project 6 : 🚀 Excited to unveil the insights from my latest CRM data analysis project! 📊💻**](https://drive.google.com/file/d/1434GeR14H9dnDd2Wd-RsABshyquyKjG1/view?usp=sharing)
 ### Project Overview:
 Embarked on a transformative journey of uncovering valuable insights from CRM data using Python and pandas. Let's dive into the compelling narrative of this analysis!
 
