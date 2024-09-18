@@ -155,5 +155,19 @@ Harnessed the power of Python, pandas, NumPy, seaborn, matplotlib, and Plotly to
 * Libraries: pandas, NumPy, seaborn, matplotlib, Plotly
 * Data visualizations created using seaborn, matplotlib, and Plotly to present insights clearly and effectively.
 
+# [**Project 9: PDF and Data Processing Toolkit 📝💼**](https://drive.google.com/drive/folders/1y0oTtsXHZRj260iJjldRyYkE8KklBHYP)
 
+## Objective
+The PDF and Data Processing Toolkit is a collection of Python scripts designed to facilitate various PDF and data manipulation tasks, such as text extraction, cropping, merging, splitting, and data merging from multiple files.
 
+## Features
+* Text Extraction: Extracts text from PDF files for easy content analysis.
+* PDF Merging & Splitting: Combines or splits PDFs as needed for efficient document handling.
+* File Cropping: Customizes PDF file dimensions to fit specific requirements.
+* Data Merging: Merges data from multiple Excel/CSV files into a single, cohesive dataset for easier management.
+## Tools & Technologies Used
+* Languages: Python
+* Libraries: PyPDF2, os, time, pandas
+## Usage
+* Streamline your workflow by automating PDF and data processing tasks.
+* Easily manipulate PDF documents and merge datasets using this toolkit.
