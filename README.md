@@ -137,3 +137,23 @@ These CRM data-driven insights serve as a compass for strategic decision-making.
 
 
 #CRMAnalysis #DataDrivenDecisions #Python #BusinessInsights #DataVisualization #Coding #LinkedInPost
+
+
+# [**Project 8: CRM Insights Explorer 🔍📊**](https://drive.google.com/file/d/1434GeR14H9dnDd2Wd-RsABshyquyKjG1/view)
+
+## Objective
+Harnessed the power of Python, pandas, NumPy, seaborn, matplotlib, and Plotly to transform CRM data into actionable insights. The project encompasses comprehensive data loading and manipulation, customer and product analysis, time-based revenue mapping, geographic sales investigation, and customer retention evaluation.
+
+## Key Insights
+-Customer Analysis: Segmentation based on purchase behavior, geographic distribution, and lifetime value.
+-Revenue Mapping: Identified revenue trends over time, pinpointing high and low sales periods.
+-Product Insights: Analyzed top-performing products and customer preferences to optimize inventory.
+-Geographic Analysis: Visualized sales distribution across regions to drive location-based strategies.
+-Customer Retention: Evaluated customer retention rates to inform loyalty programs.
+### Tools & Technologies Used
+-Languages: Python
+-Libraries: pandas, NumPy, seaborn, matplotlib, Plotly
+-Data visualizations created using seaborn, matplotlib, and Plotly to present insights clearly and effectively.
+
+
+
